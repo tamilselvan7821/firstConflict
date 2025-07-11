@@ -1,2 +1,2 @@
 bus => user name=tamil sitno=1
-green bus user name=zeigen sit no=2
+green bus user name=anand sit no=2
