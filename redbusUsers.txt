@@ -1,2 +1,3 @@
-bus => user name=tamil sitno=1
-green bus user name=anand sit no=2
+redbus => user name=tamil sitno=1
+redbus => user name=arun sitno=2
+redbus => user name =raghu sit no=3
